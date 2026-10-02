@@ -7,6 +7,9 @@ https://www.youtube.com/watch?v=feNVBEPXAcE
 Wiki on classic waves:
 https://en.wikipedia.org/wiki/Sawtooth_wave
 
+FFT:
+https://www.youtube.com/watch?v=h7apO7q16V0
+
 Some notes on raylib audio:
 
 LoadAudioStream(sampleRate, sampleSize, channels)
