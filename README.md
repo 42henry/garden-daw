@@ -41,3 +41,4 @@ if rl.IsAudioStreamProcessed(stream)
     rl.UpdateAudioStream(stream, buffer, BUFFER_FRAMES)
 }
 ```
+NOTE: if we want stereo, we need buffer[2 * i] = blah and buffer[2 * i + 1] = blah where they both store the same blah for each channel, and the for loop only goes for half the total BUFFER_FRAMES in this instance, where BUFFER_FRAMES would be 4096 * 2
