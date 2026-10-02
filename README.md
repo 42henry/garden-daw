@@ -4,6 +4,9 @@ Gardening + Music Making!
 For making plants:
 https://www.youtube.com/watch?v=feNVBEPXAcE
 
+Wiki on classic waves:
+https://en.wikipedia.org/wiki/Sawtooth_wave
+
 Some notes on raylib audio:
 
 LoadAudioStream(sampleRate, sampleSize, channels)
