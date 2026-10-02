@@ -1,6 +1,9 @@
 # garden-daw
 Gardening + Music Making!
 
+For making plants:
+https://www.youtube.com/watch?v=feNVBEPXAcE
+
 Some notes on raylib audio:
 
 LoadAudioStream(sampleRate, sampleSize, channels)
